@@ -9,7 +9,7 @@ It is intended to help in preparation for coding interviews and competitive prog
 - **BASIC MATHS** – Fundamental mathematics algorithms and techniques.
 - **HASHING** – Solutions involving hash tables and hashing techniques.
 - **RECURSION** – Recursive algorithms and problems.
-- **SORTING** – Sorting algorithms like bubble sort, merge sort, quicksort, etc.
+- **SORTING** – Sorting algorithms like bubble sort, merge sort, etc.
 
 ## 🛠️ Tech Stack
 
